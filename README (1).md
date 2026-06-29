@@ -176,12 +176,11 @@ Patient monitoring devices (pulse oximeters, ECG machines) use UART to transmit 
 
 ### Steps
 ```
-1. Clone this repository
+1. Download this UART.slx file
 2. Open MATLAB
-3. Navigate to project folder
-4. Open U_ART_TRANSMITTER.slx
-5. Press Ctrl+T to simulate
-6. Double-click Scope to view TX waveform
+3. Drag and  Drop U_ART_TRANSMITTER.slx in Files Window
+5. Double-click that file to open in MatLab Simulink
+6. Run the Project by clicking the RUN icon.
 7. Check Display block for received byte (178)
 ```
 
@@ -216,7 +215,6 @@ UART-Simulink/
 
 **Vignesh R**  
 ECE Student | VLSI Design Engineer (Aspiring)  
-RTL to GDS-II Physical Design | The VLSI Journey (YouTube)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vignesh--r--vlsi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vignesh-r-vlsi)
 [![GitHub](https://img.shields.io/badge/GitHub-vignesh--r--ece-black?style=flat-square&logo=github)](https://github.com/vignesh-r-ece)
@@ -226,10 +224,10 @@ RTL to GDS-II Physical Design | The VLSI Journey (YouTube)
 
 ## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is Paid software by MathWorks in Simulink.
 
 ---
 
 > ⭐ If this project helped you, please give it a star on GitHub!
-> 
-> 🎥 Follow **The VLSI Journey** on YouTube for more VLSI and chip design content!
+
+
