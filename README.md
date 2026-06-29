@@ -217,7 +217,7 @@ UART-Simulink/
 ECE Student | VLSI Design Engineer (Aspiring)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vignesh--r--vlsi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vignesh-r-vlsi)
-[![GitHub](https://img.shields.io/badge/GitHub-vignesh--r--ece-black?style=flat-square&logo=github)](https://github.com/vignesh-r-ece)
+[![GitHub](https://img.shields.io/badge/GitHub-vignesh--r--ece-black?style=flat-square&logo=github)](https://github.com/vignesh-r-vlsi)
 
 ---
 
